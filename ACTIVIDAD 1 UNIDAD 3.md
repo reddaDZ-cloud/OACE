@@ -3,3 +3,4 @@
 ```
 uvhu -> fft6gf
 ```
+<img width="979" height="509" alt="imagen" src="https://github.com/user-attachments/assets/a148a043-daea-4f87-9116-580493f53961" />
